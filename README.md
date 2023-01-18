@@ -1,14 +1,14 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
-<h3 align="center">I am frontend developer as React Developer from Turkey</h3>
+<h3 align="center">I am frontend developer as a React Developer from Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fearm3" alt="fearm3" /></a> </p>
 
-- 🌱 I’m currently learning **React and React-Native and Life-Learning**
+- 🌱 I’m currently learning **React and React-Native and all Life-Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fearm3?tab=repositories](https://github.com/fearm3?tab=repositories)
 
-- 💬 Ask me about **React,React-Native**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **ibrahimkankal28@gmail.com**
 
